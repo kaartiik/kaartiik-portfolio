@@ -46,7 +46,7 @@ const Projects = () => {
 							I’ve built a range of websites and mobile apps that blend functionality with intuitive design. 
 							From interactive web applications to mobile-first experiences, my focus is on creating smooth, 
 							engaging, and accessible user interfaces. Many of these projects showcase my expertise in React, 
-							JavaScript, React Native, WordPres and modern frontend frameworks. If you’re curious about my work, 
+							JavaScript, React Native, WordPress and modern frontend frameworks. If you’re curious about my work, 
 							feel free to explore the projects, dive into the code, or share your thoughts. I’m always open to 
 							collaboration, feedback, and new ideas, let’s build something incredible together!
 						</div>
