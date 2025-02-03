@@ -1,0 +1,92 @@
+/* experience.css */
+
+.workhistory-container {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.timeline {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.timeline-item {
+  width: 100%;
+  max-width: 700px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.timeline-item.left {
+  align-self: flex-start;
+}
+
+.timeline-item.right {
+  align-self: flex-end;
+}
+
+.timeline-content {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.timeline-icon {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.job-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.company {
+  font-size: 1rem;
+  color: #555;
+}
+
+.period {
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.job-description {
+  font-size: 0.9rem;
+  color: #333;
+  padding-left: 20px;
+}
+
+.job-description li {
+  margin-bottom: 5px;
+}
+
+ .homepage-social-icon {
+	padding-right: 20px;
+	font-size: 25px;
+	transition: color 0.2s ease-in-out;
+	color: var(--secondary-color);
+}
