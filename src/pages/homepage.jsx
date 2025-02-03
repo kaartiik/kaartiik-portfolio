@@ -91,7 +91,7 @@ const Homepage = () => {
 								<div className="title homepage-title">
 									Kaartiik Vijayan
 								</div>
-								<div className="title homepage-title">
+								<div className="title2 homepage-title">
 									{INFO.homepage.title}
 								</div>
 

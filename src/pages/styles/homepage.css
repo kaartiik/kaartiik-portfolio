@@ -23,6 +23,12 @@
 	align-items: flex-start;
 }
 
+.title2 {
+	margin-top: 5%;
+	font-size:24px;
+	font-weight: bold;
+}
+
 .homepage-title {
 	width: 85% !important;
 }
